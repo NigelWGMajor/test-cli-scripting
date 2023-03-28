@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oX8gFjHhMftv2dYutfk5zTRGgH8a8JoicVXzwY8YIW72J1k0MooEXI9uHEe5837gpNBfdKc10RdrdXl6RmOzBg==",
+  "success": true,
+  "projectFilePath": "N:\\SierraBeta\\TestCliScripting\\source\\Exports\\Reporting.Degreed.Web\\Reporting.Degreed.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NickMajor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

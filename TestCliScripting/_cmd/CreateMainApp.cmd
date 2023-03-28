@@ -5,7 +5,7 @@ md Application
 cd Application
 
 echo # %1 > ReadMe.md
-echo Reporting 2.0 Web Application %1 >> ReadMe.md
+echo Romeo 2.0 Web Application %1 >> ReadMe.md
 echo . >> ReadMe.md
 echo ## Run
 echo `cd %1` >> ReadMe.md

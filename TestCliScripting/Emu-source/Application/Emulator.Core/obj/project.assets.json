@@ -231,11 +231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj",
+      "projectUniqueName": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj",
       "projectName": "Emulator.Core",
-      "projectPath": "N:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj",
+      "projectPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj",
       "packagesPath": "C:\\Users\\NickMajor\\.nuget\\packages\\",
-      "outputPath": "N:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\obj\\",
+      "outputPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

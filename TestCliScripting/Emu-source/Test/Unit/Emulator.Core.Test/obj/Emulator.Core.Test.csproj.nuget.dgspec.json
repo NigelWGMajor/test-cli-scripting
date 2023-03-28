@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "n:\\testcli\\Degreed\\Reporting\\source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj": {}
+    "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj": {}
   },
   "projects": {
-    "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj": {
+    "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj",
+        "projectUniqueName": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj",
         "projectName": "Emulator.Core",
-        "projectPath": "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj",
+        "projectPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj",
         "packagesPath": "C:\\Users\\NickMajor\\.nuget\\packages\\",
-        "outputPath": "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\obj\\",
+        "outputPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "n:\\testcli\\Degreed\\Reporting\\source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj": {
+    "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "n:\\testcli\\Degreed\\Reporting\\source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj",
+        "projectUniqueName": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj",
         "projectName": "Emulator.Core.Test",
-        "projectPath": "n:\\testcli\\Degreed\\Reporting\\source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj",
+        "projectPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj",
         "packagesPath": "C:\\Users\\NickMajor\\.nuget\\packages\\",
-        "outputPath": "n:\\testcli\\Degreed\\Reporting\\source\\Test\\Unit\\Emulator.Core.Test\\obj\\",
+        "outputPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Test\\Unit\\Emulator.Core.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -108,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj": {
-                "projectPath": "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj"
+              "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj": {
+                "projectPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj"
               }
             }
           }

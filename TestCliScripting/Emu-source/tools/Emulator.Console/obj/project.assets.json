@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\testcli\\Degreed\\Reporting\\source\\tools\\Emulator.Console\\Emulator.Console.csproj",
+      "projectUniqueName": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\tools\\Emulator.Console\\Emulator.Console.csproj",
       "projectName": "Emulator.Console",
-      "projectPath": "N:\\testcli\\Degreed\\Reporting\\source\\tools\\Emulator.Console\\Emulator.Console.csproj",
+      "projectPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\tools\\Emulator.Console\\Emulator.Console.csproj",
       "packagesPath": "C:\\Users\\NickMajor\\.nuget\\packages\\",
-      "outputPath": "N:\\testcli\\Degreed\\Reporting\\source\\tools\\Emulator.Console\\obj\\",
+      "outputPath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\tools\\Emulator.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

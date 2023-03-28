@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MF1cfGbPmfCs1NGUAX692x9BFnaOFlqlG40La1GvUXYnEcwiTugyScNj/R8ksDoqydT9ViKm3VHz5cFir8E1OA==",
+  "dgSpecHash": "K0q+Wx0vtzO5Sg69HgZPfUPKIPjRTf8rndS3/GUhqjSnkhWwZmwkvtFQayIPxh9EYiZtNV71bLA+QzzvLa1eMQ==",
   "success": true,
-  "projectFilePath": "n:\\testcli\\Degreed\\Reporting\\source\\Application\\Emulator.Core\\Emulator.Core.csproj",
+  "projectFilePath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Application\\Emulator.Core\\Emulator.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NickMajor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\NickMajor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

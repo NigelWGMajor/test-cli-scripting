@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NcVJMGqMNX/huJXO+ll6YIkE/p17Z+m2ajhBM6oStZtuXs7KDTj2AXdXpYvDsJlO0Nz+2flJioV7K4bIfeiyyw==",
+  "dgSpecHash": "h9nUT9ExC7soxtVULKOWuvyW0UNg0aZS07A0c44xNAri0wTyMRN40Q86Sl8sDdyuDfvUkUgFWGd394la8gYFUw==",
   "success": true,
-  "projectFilePath": "n:\\testcli\\Degreed\\Reporting\\source\\DemoWeb\\Emulator.Web\\Emulator.Web.csproj",
+  "projectFilePath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\DemoWeb\\Emulator.Web\\Emulator.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

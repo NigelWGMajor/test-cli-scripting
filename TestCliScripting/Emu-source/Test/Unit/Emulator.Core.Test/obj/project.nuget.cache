@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "raObTia5BdeJVqr9ZdpaRB2XxFxvF2b2aoPzNzh7Wyd15QMfysXVTop0ZqO9Edo0otdb06bOlICDWsG413LNRA==",
+  "dgSpecHash": "2S8p8wR9bBJDz8jeNYe/36wNU1y0xiopo8NQp6IVlhWZvfMEEeXLAECEOZRb8kdNJr30q0DWjhDSk+7VGd2fRg==",
   "success": true,
-  "projectFilePath": "n:\\testcli\\Degreed\\Reporting\\source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj",
+  "projectFilePath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\Test\\Unit\\Emulator.Core.Test\\Emulator.Core.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NickMajor\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\NickMajor\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

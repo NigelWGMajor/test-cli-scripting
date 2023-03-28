@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJ4qrg1Q24+L0cOH4ddR0I+L3nslyZoQg69WRaqYnMmwdAvZEbPjyUTUCfYgKlYog2tqLNLgbXXh9vSq8ed7mA==",
+  "dgSpecHash": "NtCpDyn5qkp7h2SXjrML3lEc14oTeMqVVU1b/Gby2BYHP8zYXxo0kRbdqcpL9QeGBuhhjUwJSjcsqWvmDRiYmQ==",
   "success": true,
-  "projectFilePath": "n:\\testcli\\Degreed\\Reporting\\source\\tools\\Emulator.Console\\Emulator.Console.csproj",
+  "projectFilePath": "N:\\SierraBeta\\TestCliScripting\\Emu-source\\tools\\Emulator.Console\\Emulator.Console.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -4,6 +4,10 @@ cd ..\source
 md Tooling
 cd Tooling
 
+dotnet new razor -n %1 -f net6.0
+
+cd %1
+
 echo # %1 > ReadMe.md
 echo Web Application (razor) %1 >> ReadMe.md 
 echo . >> ReadMe.md 
@@ -11,7 +15,10 @@ echo ## Run >> ReadMe.md
 echo `cd %1` >> ReadMe.md
 echo `dotnet run` >> ReadMe.md
 
-dotnet new razor -n %1 -f net6.0
+cd ..
+
+echo # Tooling > ReadMe.md
+echo Tooling contains web and console-based development and diagnostic tools >>ReadMe.md
 
 cd ..
 

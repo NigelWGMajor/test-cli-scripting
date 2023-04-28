@@ -7,20 +7,18 @@ cd Imports
 dotnet new classlib -n %1 -f netstandard2.0 --force 
 
 cd %1
-
 echo # %1 > ReadMe.md
 echo Import %1 >> ReadMe.md
 echo . >> ReadMe.md 
 echo ## Pack >> ReadMe.md
 echo `dotnet pack` >> ReadMe.md
+echo . >> ReadMe.md 
 echo ## Publish >> ReadMe.md
-echo `dotnet publish <path>` >> ReadMe.md
-
-
+echo `dotnet publish (path)` >> ReadMe.md
 cd ..
 
 echo # %1 > ReadMe.md
-echo Romeo 2.0 Imports contains libraries providing support classes for Romeo 2.0 applications %1 >> ReadMe.md
+echo Imports contains libraries providing support classes >> ReadMe.md
 
 cd ..
 

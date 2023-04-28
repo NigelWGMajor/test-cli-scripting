@@ -3,15 +3,16 @@ cd ..\source
 
 md DemoWeb
 cd DemoWeb
+dotnet new razor -n %1 -f net6.0
 
+cd %1
 echo # %1 > ReadMe.md
 echo Web Application %1 (razor) >> ReadMe.md 
 echo . >> ReadMe.md 
 echo ## Run >> ReadMe.md
 echo `cd %1` >> ReadMe.md
 echo `dotnet run` >> ReadMe.md
-
-dotnet new razor -n %1 -f net6.0
+cd ..
 
 cd ..
 

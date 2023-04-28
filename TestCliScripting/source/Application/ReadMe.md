@@ -1,6 +1,6 @@
-# Delta.Romeo 
-Romeo 2.0 Web Application Delta.Romeo 
+# Degreed.Reporting.Core 
+Web Application Degreed.Reporting.Core 
 . 
-`cd Delta.Romeo` 
+`cd Degreed.Reporting.Core` 
 `dotnet run` 
 [Dotnet6Tut](https://www.youtube.com/watch?v=vdhFw1VSowg) 

@@ -1,9 +1,5 @@
 # File generation scripts
 
-Before use:
-
-Rename Delta and Romeo in Master.cmd
-
 ## Usage
 
 Restart:

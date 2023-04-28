@@ -1,1 +1,6 @@
-# Romeo.Retool.Web 
+#  
+Export  
+.  
+## Pack 
+`dotnet pack` 
+## Publish 

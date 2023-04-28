@@ -1,11 +1,11 @@
 md ..\source
 cd ..\source
 
-md DemoWeb
-cd DemoWeb
+md Tooling
+cd Tooling
 
 echo # %1 > ReadMe.md
-echo Web Application %1 (razor) >> ReadMe.md 
+echo Web Application (razor) %1 >> ReadMe.md 
 echo . >> ReadMe.md 
 echo ## Run >> ReadMe.md
 echo `cd %1` >> ReadMe.md
@@ -22,11 +22,11 @@ cd Unit
 
 dotnet new xunit -f net6.0 -n %1.Test --force
 cd %1.Test
-dotnet add reference ..\..\..\DemoWeb\%1\%1.csproj
+dotnet add reference ..\..\..\Tooling\%1\%1.csproj
 
 cd ..\..\..\..\_cmd
-
-dotnet sln ..\source\Master.sln add ..\source\DemoWeb\%1\%1.csproj
+dotnet sln ..\source\Master.sln add ..\source\Tooling\%1\%1.csproj
 dotnet sln ..\source\Master.sln add ..\source\Test\Unit\%1.Test\%1.Test.csproj
+
 if errorlevel 1 pause
 

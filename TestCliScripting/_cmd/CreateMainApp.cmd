@@ -5,7 +5,7 @@ md Application
 cd Application
 
 echo # %1 > ReadMe.md
-echo Romeo 2.0 Web Application %1 >> ReadMe.md
+echo Web Application %1 >> ReadMe.md
 echo . >> ReadMe.md
 echo ## Run
 echo `cd %1` >> ReadMe.md
@@ -27,5 +27,9 @@ cd %1.Test
 dotnet add reference ..\..\..\Application\%1\%1.csproj
 
 cd ..\..\..\..\_cmd
+
+dotnet sln ..\source\Master.sln add ..\source\Application\%1\%1.csproj
+dotnet sln ..\source\Master.sln add ..\source\Test\Unit\%1.Test\%1.Test.csproj
+
 if errorlevel 1 pause
 
